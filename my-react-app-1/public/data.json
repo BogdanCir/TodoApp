@@ -1,0 +1,27 @@
+[
+    {
+      "id": "todo-0",
+      "name": "Eat",
+      "status": "processing",
+      "shortDescription": "Don't forget to eat!",
+      "data": "22.08.2023",
+      "longDescription": "Don't forget to eat!"
+    },
+    
+    {
+      "id": "todo-1",
+      "name": "Sleep",
+      "status": "completed",
+      "shortDescription": "Don't forget to eat!",
+      "data": "22.08.2023",
+      "longDescription": "Don't forget to eat!"
+    },
+    {
+      "id": "todo-2",
+      "name": "Repeat",
+      "status": "completed",
+      "shortDescription": "Don't forget to eat!",
+      "data": "22.08.2023",
+      "longDescription": "Don't forget to eat!"
+    }
+]
