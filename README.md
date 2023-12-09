@@ -2,7 +2,7 @@
 
 
   Project Description:
-Developed a Task Manager App: Created a Task Manager application with features such as task creation, deletion, and detailed view. Utilized Tailwind CSS for styling, showcasing proficiency in utility-first CSS frameworks.
+Created a Task Manager application with features such as task creation, deletion, and detailed view. Utilized Tailwind CSS for styling, showcasing proficiency in utility-first CSS frameworks.
 
   Responsive Design: 
 Implemented a responsive design to ensure a seamless user experience on various devices.
